@@ -42,7 +42,7 @@ Conclusão: Sem uma decisão de encaminhamento, o pacote não sabe para onde ir.
 5. Ao ver que mesmo com o roteador configurado e os enlaces físicos conectados corretamente a conexão não foi estabelecida, foi realizado a adição do default gateway para que o Host A soubesse para onde encaminhar o pacote
 6. Após a adição, o Host A conseguiu se conectar no Host B pois sabia para onde roteador o pacote - para o roteador - e o roteador fez o roteamento correto no qual foi configurado para o Host A
 7. Ao observar que é necessário a conexão lógica além da física, foi adicionado o default gateway no Host B e feito o teste de conexão para o Host A, o qual foi sucedido.
-   
+
 ## Resultados e evidências
 
 - Topologia do experimento
